@@ -8,7 +8,7 @@ This project implements a Logistic Regression model to predict whether a tumor i
 -Visualizes dataset features using histograms, scatter plots, and correlation matrices.
 
 ## Dataset
-Source: Breast Cancer Wisconsin Dataset - Kaggle
+Source: Breast Cancer Wisconsin Dataset - [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 This dataset contains 569 instances with 30 numerical features describing the characteristics of cell nuclei.
 
 ## Key Features:
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Running the Notebook
 Open Jupyter Notebook:
--jupyter notebook
+-Jupyter notebook
 -Run Cancer_LogisticRegression1.ipynb and Cancer_LogisticRegression2.ipynb.
 -Ensure the dataset (Cancer_Data.csv) is in the same directory.
 
@@ -45,7 +45,7 @@ Optimized hyperparameters using GridSearchCV
 Cancer_Prediction_Logistic_Regression/
 │── Cancer_LogisticRegression1.ipynb
 │── Cancer_LogisticRegression2.ipynb
-│── Cancer_Data.csv
+│──Cancer prediction dataset.csv
 │── requirements.txt
 │── README.md
 │── .gitignore
@@ -59,4 +59,4 @@ Cancer_Prediction_Logistic_Regression/
 Please feel free to fork the repository, open an issue, or submit a pull request if you'd like to improve the project.
 
 ## Contact
-For any inquiries, reach out via GitHub Issues or email at sweetyrao670@gmail.com
+For any inquiries, reach out via GitHub Issues or email at sweetyrao670@gmail.com.
